@@ -1,10 +1,3 @@
 <resources>
-    <string name="app_name">guess number game</string>
-    <string name="topic">Number Guessing Game</string>
-    <string name="detail">Try to guess the number I\'m thinking of from 1 - 1000!</string>
-    <string name="answer">Your Guess</string>
-    <string name="hint">Hint: %s</string>
-    <string name="play_again">play again</string>
-
-    <string name="number">Random number : %s</string>
+    <string name="app_name">Number Guessing Game</string>
 </resources>
